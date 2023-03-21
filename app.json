@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "Divelocker-app",
-    "slug": "Divelocker-app"
+    "name": "job-search",
+    "slug": "job-search"
   }
 }
